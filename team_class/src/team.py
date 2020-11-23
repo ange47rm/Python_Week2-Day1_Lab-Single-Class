@@ -21,7 +21,6 @@ class Team():
     def play_game(self, bool):
         if bool == True:
             self.points += 3
-   
         
 
       
